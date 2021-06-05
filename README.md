@@ -3,10 +3,10 @@
 
 
 
-- 🌱 I’m currently learning learning everything 🤣
-- 👯 I’m looking to collaborate on machine learning engineering
-- 🥅 2020 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I like to cook.
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate on programming and web developing.
+- 🥅 2020 Goals: Contribute to Open Source projects.
+- ⚡ Fun fact: I like cooking.
 
 <br />
 
@@ -14,7 +14,8 @@
 <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="es6" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png" />
-<img align="left" alt="node" width="30px" src="https://simpleicons.org/icons/node-dot-js.svg" />
+<img align="left" alt="es6" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="es6" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="html" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="css" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
