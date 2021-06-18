@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on programming and web developing.
 - 🥅 2020 Goals: Contribute to Open Source projects.
-- ⚡ Fun fact: I like cooking.
+- :shallow_pan_of_food: Fun fact: I like cooking.
 
 <br />
 
