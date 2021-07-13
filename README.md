@@ -2,10 +2,10 @@
 
 
 
-
+-  :writing_hand:  Here is [my portfolio website](https://almiadi-portfolio.netlify.app) (I'm still adding new content) 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on programming and web developing.
-- 🥅 2020 Goals: Contribute to Open Source projects.
+- 🥅 2021 Goals: Contribute to Open Source projects.
 - :shallow_pan_of_food: Fun fact: I like cooking.
 
 <br />
