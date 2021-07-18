@@ -22,7 +22,7 @@ I am a fullstack software engineer.
 <img align="left" alt="html" src="https://img.shields.io/badge/HTML%20-%2320232a.svg?&style=for-the-badge&logo=HTML5&logoColor=%E34F26" />
 <img align="left" alt="css" src="https://img.shields.io/badge/CSS%20-orange.svg?&style=for-the-badge&logo=CSS3&logoColor=%DD3A0A" />
 <img align="left" alt="sass" src="https://img.shields.io/badge/SASS%20-%2320232a.svg?&style=for-the-badge&logo=SASS&logoColor=%CC6699" />
-<img align="" alt="github" src="https://img.shields.io/badge/Github%20-%2343853D.svg?&style=for-the-badge&logo=GITHUB&logoColor=%FCA121" /><br/>
+<img align="" alt="github" src="https://img.shields.io/badge/Github%20-%2343853D.svg?&style=for-the-badge&logo=GITHUB&logoColor=%FCA121" />
 <img align="left" alt="git" src="https://img.shields.io/badge/Git%20-%2320232a.svg?&style=for-the-badge&logo=Git&logoColor=%F05032" />
 <img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL%20-blue.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />
 <img align="left" alt="mongodb" src="https://img.shields.io/badge/MongoDB%20-%47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />
