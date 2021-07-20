@@ -1,7 +1,7 @@
 ### Hello World 👋:strawberry:
 I am a fullstack software engineer.
 
--  :writing_hand:  Here is [My Website](https://almiadi-portfolio.netlify.app) (I'm still adding new content) 
+-  :writing_hand:  Here is [My Website](https://almiadi-portfolio.netlify.app)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on programming and web developing.
 - 🥅 2021 Goals: Contribute to Open Source projects.
