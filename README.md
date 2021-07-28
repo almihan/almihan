@@ -1,14 +1,16 @@
-### Hello World 👋:strawberry:
+![Header](https://github.com/almihan/almihan/blob/b9d5a07435b4e82abab4988f1da6e245e0e23d20/head.png "Header")
+
+# Hello World 👋:strawberry:
 I am a fullstack software engineer.
 
--  :writing_hand:  Here is [My Website](https://almiadi-portfolio.netlify.app)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on programming and web developing.
 - 🥅 2021 Goals: Contribute to Open Source projects.
 - :shallow_pan_of_food: Fun fact: I like cooking.
 <br>
 
-## Connect with me
+# Connect with Me
+
 [<img align="left" alt="medium" src="https://img.shields.io/badge/-My Website-%2343853D?&style=for-the-badge&logo=Accenture&logoColor=green"/>](https://almiadi-portfolio.netlify.app)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@almiadi)
 <br>
