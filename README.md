@@ -3,7 +3,7 @@
 # Hello World 👋:strawberry:
 I am a fullstack software engineer.
 
-- 🌱 I always feel like I don’t know enough, so I am curious about to learn new things. 🤣
+- 🌱 I always feel like I don’t know enough, so I am curious and excited about to learn from every day. 🤣
 - 👯 I’m looking to collaborate on programming and web developing.
 - 🥅 2021 Goals: Contribute to Open Source projects.
 - :shallow_pan_of_food: Fun fact: I like cooking.
