@@ -11,8 +11,10 @@ I am a fullstack software engineer.
 
 # Connect with Me
 
-[<img align="left" alt="medium" src="https://img.shields.io/badge/-My Website-%2343853D?&style=for-the-badge&logo=Accenture&logoColor=green"/>](https://almiadi-portfolio.netlify.app)
+[<img align="left" alt="website" src="https://img.shields.io/badge/-My Website-%2343853D?&style=for-the-badge&logo=Accenture&logoColor=green"/>](https://almiadi-portfolio.netlify.app)
+<!---
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@almiadi)
+--->
 <br>
 <br>
 
