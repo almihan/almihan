@@ -1,4 +1,4 @@
-![Header](https://github.com/almihan/almihan/blob/510408bf44414b81c903a06dfee6b8c87a359cdd/heading.gif "Header")
+![Header](https://github.com/almihan/almihan/blob/510408bf44414b81c903a06dfee6b8c87a359cdd/header.png "Header")
 
 # Hello World 👋
 I am a fullstack software engineer.
