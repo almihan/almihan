@@ -55,10 +55,7 @@ I am a fullstack software engineer.
   <br>
   **tools:** React, CSS
 <br>
-### [Food Club](https://github.com/almihan/food-club)
-  **type:** static website
-  <br>
-  **tools:** HTML, CSS
+
 <!---
 
 [<img align="left" alt="website" src="https://img.shields.io/badge/-My Website-%2343853D?&style=for-the-badge&logo=Accenture&logoColor=green"/>]()
