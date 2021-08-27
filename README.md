@@ -35,6 +35,11 @@ I am a fullstack software engineer.
 
 # My Projects Portfolio
 
+### [Skincare Products](https://github.com/almihan/skincare-products)
+**type:** fullstack project
+ <br>
+**tools:** React, Redux, Firebase, Stripe, Sass
+ <br>
 ### [Learning Club](https://github.com/almihan/learning-club)
 **type:** static website
  <br>
