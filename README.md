@@ -55,7 +55,7 @@ I am a fullstack software engineer.
 **type:** full-stack project
 <br>
 --->
-**tools:** React, Node.js, MongoDB, Bootstrap, ...
+**tools:** React, Node.js, MongoDB, Bootstrap
 <br>
 ### [Restaurants Search](https://github.com/almihan/restaurants-search)
   **type:** front-end proejct
