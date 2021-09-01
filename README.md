@@ -40,7 +40,7 @@ I am a fullstack software engineer.
  <br>
 **tools:** React, Redux, Firebase, Stripe, Sass
  <br>
- ### [Photography Site](https://photograpy-site.netlify.app)
+ ### [Photography Site](https://github.com/almihan/photograpy)
 **type:** front-end project
  <br>
 **tools:** React, Sass, syled-components, framer-motion
