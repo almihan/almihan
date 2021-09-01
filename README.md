@@ -55,20 +55,24 @@ I am a fullstack software engineer.
   <br>
   **tools:** HTML, Sass, JS
 <br>
+
 <!---
 ### [Book Rental App](https://github.com/almihan/book-rental-app)
 **type:** full-stack project
 <br>
---->
+
 **tools:** React, Node.js, MongoDB, Bootstrap
 <br>
+
+
+<!---
 ### [Restaurants Search](https://github.com/almihan/restaurants-search)
   **type:** front-end proejct
   <br>
   **tools:** React, CSS
 <br>
 
-<!---
+
 
 [<img align="left" alt="website" src="https://img.shields.io/badge/-My Website-%2343853D?&style=for-the-badge&logo=Accenture&logoColor=green"/>]()
 
