@@ -43,7 +43,10 @@ I am a fullstack software engineer.
  ### [Photography Site](https://github.com/almihan/photograpy)
 **type:** front-end project
  <br>
-**tools:** React, Sass, syled-components, framer-motion
+ ### [Gamer](https://github.com/almihan/gamer)
+**type:** front-end project
+ <br>
+**tools:** React, Redux, Axios, syled-components, framer-motion, rawgAPI
  <br>
 ### [Learning Club](https://github.com/almihan/learning-club)
 **type:** static website
