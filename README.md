@@ -40,6 +40,11 @@ I am a fullstack software engineer.
 <br>
 **tools:** React, syled-components, framer-motion
  <br>
+  ### [Blog Site](https://github.com/almihan/blog)
+**type:** full-stack project
+<br>
+**tools:** React, Redux, Firebase, Firestore, Fire Authentication, Materialize
+ <br>
  ### [Gamer](https://github.com/almihan/gamer)
 **type:** front-end project
  <br>
