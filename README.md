@@ -1,11 +1,11 @@
 
 
 # Hello World 👋
-I am a fullstack software engineer.
+
 
 - 🌱 I always feel like I don’t know enough, so I am curious and excited about to learn from every day. 🤣
-- 👯 I’m looking to collaborate on programming and web developing.
-- 🥅 2021 Goals: Contribute to Open Source projects.
+- 👯 I’m looking to collaborate on programming.
+- 🥅 2022 Goals: Contribute to Open Source projects.
 - :shallow_pan_of_food: Fun fact: I like cooking.
 <br>
 
@@ -35,14 +35,14 @@ I am a fullstack software engineer.
 
 # My Projects Portfolio
 
+### [C++, Python Projects](https://github.com/almihan/CourseProjects)
+**tools:** c++, python
+<br>
  ### [Photography Site](https://github.com/almihan/photograpy)
 **type:** front-end project
 <br>
 **tools:** React, syled-components, framer-motion
  <br>
-  ### [Blog Site](https://github.com/almihan/blog)
-**type:** full-stack project
-<br>
 **tools:** React, Redux, Firebase, Firestore, Fire Authentication, Materialize
  <br>
  ### [Gamer](https://github.com/almihan/gamer)
