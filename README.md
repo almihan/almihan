@@ -35,27 +35,27 @@
 
 # My Projects Portfolio
 
-### [C++, Python Projects](https://github.com/almihan/CourseProjects)
+### :point_right: [C++, Python Projects](https://github.com/almihan/CourseProjects)
 **tools:** c++, python
 <br>
- ### [Photography Site](https://github.com/almihan/photograpy)
+ ### :point_right: [Photography Site](https://github.com/almihan/photograpy)
 **type:** front-end project
 <br>
 **tools:** React, syled-components, framer-motion
  <br>
 **tools:** React, Redux, Firebase, Firestore, Fire Authentication, Materialize
  <br>
- ### [Gamer](https://github.com/almihan/gamer)
+ ### :point_right: [Gamer](https://github.com/almihan/gamer)
 **type:** front-end project
  <br>
 **tools:** React, Redux, Axios, syled-components, framer-motion, rawgAPI
  <br>
-### [Learning Club](https://github.com/almihan/learning-club)
+### :point_right: [Learning Club](https://github.com/almihan/learning-club)
 **type:** static website
  <br>
 **tools:** HTML, CSS, JS, Sprites
  <br>
-### [Portfolio Site](https://github.com/almihan/portfolio-demo)
+### :point_right: [Portfolio Site](https://github.com/almihan/portfolio-demo)
   **type:** static website
   <br>
   **tools:** HTML, Sass, JS
